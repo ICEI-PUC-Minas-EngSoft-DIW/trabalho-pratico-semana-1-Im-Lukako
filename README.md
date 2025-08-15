@@ -2,16 +2,15 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Lucas Augusto Ferreira Dos Santos
+Matricula: 1595519
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+[alt text](image-2.png)
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+[alt text](image-1.png)
 
 
 ## Orientações sobre Linguagem MarkDown
@@ -21,3 +20,10 @@ Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto 
 Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
 
 ![Brasão PUC Minas](images/brasao_puc.png)
+
+git add .
+git commit -m "Alterações no arquivo README.md - matrícula: 1595519
+git checkout main
+git merge Lucas
+git push origin Lucas
+git push origin main
