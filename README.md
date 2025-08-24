@@ -20,10 +20,3 @@ Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto 
 Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
 
 ![Brasão PUC Minas](images/brasao_puc.png)
-
-git add .
-git commit -m "Alterações no arquivo README.md - matrícula: 1595519
-git checkout main
-git merge Lucas
-git push origin Lucas
-git push origin main
